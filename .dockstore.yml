@@ -1,5 +1,5 @@
 version: 1.2
 workflows:
   - subclass: WDL
-    primaryDescriptorPath: /new_subfolder/i_will_have_that_power.wdl
+    primaryDescriptorPath: /break_this_workflow/i_will_have_that_power.wdl
     name: iwillhavethatpower_originalmix
